@@ -799,6 +799,7 @@ sup.hash {
 }
 .buy-ticket:hover {
     height: 9%;
+    margin-bottom: 40px;
 }
 .best {
     position: absolute;
@@ -975,7 +976,7 @@ hr.d-flex {
     color: var(--white) !important;
     background: inherit;
     border: 1px solid var(--white) !important;
-    border-radius: 3px;
+    border-radius: 5px;
     font-size: 20px;
     width: 50px;
     height: 50px;
